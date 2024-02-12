@@ -52,8 +52,8 @@ python train_supervision.py -c config/uavid/SSFNet.py
 ```
 python inference_uavid.py \
 -i 'data/uavid/uavid_test' \
--c config/uavid/unetformer.py \
--o fig_results/uavid/unetformer_r18 \
+-c config/uavid/SSFNet.py \
+-o results/uavid/ \
 -t 'lr' -ph 1152 -pw 1024 -b 2 -d "uavid"
 
 
