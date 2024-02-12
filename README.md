@@ -57,7 +57,8 @@ python inference_uavid.py \
 -t 'lr' -ph 1152 -pw 1024 -b 2 -d "uavid"
 
 
+**Training Code Reference **
 
-
-Training Code Reference - [GeoSeg](https://authors.elsevier.com/a/1fIji3I9x1j9Fs) - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
+ ([GeoSeg](https://github.com/WangLibo1995/GeoSeg))
+ ([mmsegmentation](https://github.com/open-mmlab/mmsegmentation))
 
