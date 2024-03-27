@@ -1,7 +1,7 @@
 # SSFNet
 SSFNet：: Lightweight real-time network for semantic segmentation of UAV remote sensing images
-
-
+##2024.3.27
+FRFB, BFM, and FAC were updated.
 **UAVid**
 ```
 python tools/uavid_patch_split.py \
