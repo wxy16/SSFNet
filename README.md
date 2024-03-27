@@ -3,7 +3,7 @@
 
 FRFB, BFM, and FAC were updated.
 
-SSFNet：: Lightweight real-time network for semantic segmentation of UAV remote sensing images
+SSFNet： Lightweight real-time network for semantic segmentation of UAV remote sensing images
 
 **UAVid**
 ```
