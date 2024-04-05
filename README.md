@@ -5,7 +5,7 @@ FRFB, BFM, and FAC were updated.
 
 SSFNet： Lightweight real-time network for semantic segmentation of UAV remote sensing images
 
-Our results have been submitted to the official dataset under the username wxy07496, and the specific scores are as follows. Due to the progress of other work, the official website at https://codalab.lisn.upsaclay.fr/competitions/7302#results now displays another project of ours. If interested, please check it out at https://github.com/wxy16/FGFNet.
+Our results have been submitted to the official dataset under the username wxy07496, and the specific scores are as follows. Due to the progress of other work, the official website at https://codalab.lisn.upsaclay.fr/competitions/7302#results now displays another project of ours. If interested, please check it out at https://github.com/wxy16/MLFMNet.
 
 
 ![图片1](https://github.com/wxy16/SSFNet/assets/128227957/c2fa5f37-51a1-4191-a8bd-f34d9f9b4b3a)
