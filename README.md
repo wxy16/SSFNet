@@ -1,4 +1,8 @@
 # SSFNet
+**2024.4.12**
+
+SSFNet was updated.
+
 **2024.3.27**
 
 FRFB, BFM, and FAC were updated.
@@ -45,7 +49,7 @@ python tools/uavid_patch_split.py \
 "-c" means the path of the config, use different **config** to train different models.
 
 ```
-python train_supervision.py -c config/uavid/SSFNet.py
+python train_supervision.py -c config/uavid/ssfnet.py
 ```
 
 ## Testing
