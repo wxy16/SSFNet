@@ -1,4 +1,6 @@
 # SSFNet
+<img width="853" alt="SSF" src="https://github.com/wxy16/SSFNet/assets/128227957/84d8523d-6e80-4e4b-a5e4-dcf560babbd1">
+SSFNet: A network for real-time processing of unmanned aerial vehicle (UAV) remote sensing images, aiming to balance the trade-off between accuracy and speed in semantic segmentation.
 **2024.4.12**
 
 SSFNet was updated.
