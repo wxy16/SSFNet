@@ -3,6 +3,8 @@
 
 
 SSFNet: A network for real-time processing of unmanned aerial vehicle (UAV) remote sensing images, aiming to balance the trade-off between accuracy and speed in semantic segmentation.
+
+
 **2024.4.12**
 
 SSFNet was updated.
